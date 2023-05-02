@@ -1,4 +1,7 @@
-<pre>Our goal is to serve you as your right hand. Your task will always be completed on time. We can assure you that you will be satisfied with our accuracy level. You can trust us with your sensitive business matters and we will provide you with the personalized client service you need to help your business grow and prosper!
+<pre>Our goal is to serve you as your right hand. Your task will always be completed on time.
+We can assure you that you will be satisfied with our accuracy level.
+You can trust us with your sensitive business matters and we will provide you with the personalized
+service you need to help your business grow and prosper!
 
 Our Core Competencies and Area of Expertise: 
 ~ Data Scraping 
